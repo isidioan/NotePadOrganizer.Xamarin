@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{5048CFF5-55EA-4E06-BD3F-FD3527540DBE}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>NotesCore</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)DataModelNotes.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataModelToDo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NotesViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TodoViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataModelCamera.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CameraViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FileHelpers.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ImageHelpers.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataModelLocation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LocationViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Locator.cs" />
+  </ItemGroup>
+</Project>

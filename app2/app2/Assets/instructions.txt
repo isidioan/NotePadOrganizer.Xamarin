@@ -1,0 +1,8 @@
+Notes: Using the + button located up and right for creating a new note.
+Touching on one note enables to view the extended details of the note.
+Long press on any note enables reveals a dialog for editing or deleting
+an existing note.
+Task List : 
+
+7Q87N-24MTC-8QFKT-VYPYX-T8364
+Messages:

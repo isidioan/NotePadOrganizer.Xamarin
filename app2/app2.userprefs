@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5BAC2A1C-5862-4C5B-9A09-D1DDAF3020E5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="MS.NET" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotesCore\Locator.cs">
+    <Files>
+      <File FileName="app2\LocationMainActivity.cs" Line="1" Column="1" />
+      <File FileName="app2\LocationSecondActivity.cs" Line="194" Column="6" />
+      <File FileName="NotesCore\Locator.cs" Line="32" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.app2 AndroidDesignerPreferredDevice="Nexus 4" AndroidDesignerPreferredTheme="Theme.DeviceDefault" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
